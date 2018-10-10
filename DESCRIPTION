@@ -1,0 +1,27 @@
+Package: MouseSciaticNerve
+Type: Package
+Title: Adult nerves are a source of mesenchymal precursor cells that contribute to mammalian tissue repair and regeneration
+Version: 0.1.1
+Date: 2018-10-03
+Author: c(as.person("Matthew J. Carr"),
+          as.person("Jeremy S. Toma"),
+          as.person("Adam P.W. Johnston"),
+          as.person("Patrick E Steadman"),
+          as.person("Scott A. Yuzwa"),
+          as.person("Paul W. Frankland"),
+          as.person("David R. Kaplan"),
+          as.person("Freda D. Miller")
+          )
+Maintainer: Miller/Kaplan lab <millerkaplanlab@gmail.com>
+Description: Data package for the 2018 Cell Stem Cell paper sharing its title 
+    (Carr et al., Cell Stem Cell, 2018). Please cite this paper when 
+    using the data. The data consists of processed files ready for visualization 
+    in scClustViz (https://baderlab.github.io/scClustViz).
+Abstract: Add Abstract Here
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: org.Mm.eg.db
+RoxygenNote: 6.1.0
+Imports: scClustViz
+Remotes: BaderLab/scClustViz

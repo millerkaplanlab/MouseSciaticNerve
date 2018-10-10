@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538660105247.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2784039077",
+    "id" : "90DAD0AC",
+    "lastKnownWriteTime" : 1538765412,
+    "last_content_update" : 1538765412351,
+    "path" : "/mnt/Data/Scott/MouseSciaticNerve_Package_Testing.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
