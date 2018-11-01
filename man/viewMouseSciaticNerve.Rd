@@ -8,9 +8,7 @@ viewMouseSciaticNerve(dataset, outPath = "./")
 }
 \arguments{
 \item{dataset}{One of "Inj9dBeads", "Inj9dBeadsMesenchymal", "Inj9dFACS", "InjCombined", "InjUninjMesenchymalCombined", "UninjMesenchymal".
-Referring to the different datasets in this package, which each represent an embryonic day
-during mouse development from which the cerebral cortex was dissected and
-single-cell RNAseq data collected.}
+Referring to the different datasets in this package, which each represent single-cell RNAseq data collected from different Injured/Uninjured Sciatic Nerve.}
 
 \item{outPath}{Default = "./" (the working directory). Specify the directory
 used to save/load any analysis files you generate while exploring the
@@ -25,7 +23,7 @@ A wrapper function to view one of the six \code{MouseSciaticNerve} datasets / an
 \code{scClustViz} Shiny app.
 }
 \examples{
-  viewMouseCortex("Inj9dBeads")
+  viewMouseSciaticNerve("Inj9dBeads")
 
 }
 \seealso{

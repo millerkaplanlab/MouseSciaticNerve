@@ -1,6 +1,6 @@
 Package: MouseSciaticNerve
 Type: Package
-Title: Adult nerves are a source of mesenchymal precursor cells that contribute to mammalian tissue repair and regeneration
+Title: Mesenchymal precursor cells in adult nerves contribute to mammalian tissue repair and regeneration
 Version: 0.1.1
 Date: 2018-10-03
 Author: c(as.person("Matthew J. Carr"),
@@ -13,8 +13,8 @@ Author: c(as.person("Matthew J. Carr"),
           as.person("Freda D. Miller")
           )
 Maintainer: Miller/Kaplan lab <millerkaplanlab@gmail.com>
-Description: Data package for the 2018 Cell Stem Cell paper sharing its title 
-    (Carr et al., Cell Stem Cell, 2018). Please cite this paper when 
+Description: Data package for the 2019 Cell Stem Cell paper sharing its title 
+    (Carr et al., Cell Stem Cell, 2019). Please cite this paper when 
     using the data. The data consists of processed files ready for visualization 
     in scClustViz (https://baderlab.github.io/scClustViz).
 Abstract: Add Abstract Here
