@@ -1,6 +1,6 @@
 ## [Mesenchymal precursor cells in adult nerves contribute to mammalian tissue repair and regeneration] ##
 
-Matthew J. Carr, Jeremy S. Toma, Adam P.W. Johnston, Patrick E Steadman, Scott A. Yuzwa, Neemat Mahmud, Paul W. Frankland, David R. Kaplan, Freda D. Miller Cell Stem Cell, 2019 Data portal by scClustViz.
+Matthew J. Carr, Jeremy S. Toma, Adam P.W. Johnston, Patrick E Steadman, Scott A. Yuzwa, Neemat Mahmud, Paul W. Frankland, David R. Kaplan, Freda D. Miller. Cell Stem Cell, 2019 Data portal by scClustViz.
 
 ## Abstract ##
 
