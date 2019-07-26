@@ -1,7 +1,7 @@
 Package: MouseSciaticNerve
 Type: Package
 Title: Mesenchymal precursor cells in adult nerves contribute to mammalian tissue repair and regeneration
-Version: 0.1.1
+Version: 0.2.0
 Date: 2018-10-03
 Author: c(as.person("Matthew J. Carr"),
           as.person("Jeremy S. Toma"),
